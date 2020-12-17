@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Program.cs
+namespace RockPaperScissorsChallenge
 {
     class Program
     {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documents\\GitHub\\cs30-challenge-rockpaperscissors-CombativeCreeper007\\Program.cs\\Program.cs.csproj",
-      "projectName": "Program.cs",
-      "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\GitHub\\cs30-challenge-rockpaperscissors-CombativeCreeper007\\Program.cs\\Program.cs.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documents\\GitHub\\cs30-challenge-rockpaperscissors-CombativeCreeper007\\RockPaperScissorsChallenge\\RockPaperScissorsChallenge.csproj",
+      "projectName": "RockPaperScissorsChallenge",
+      "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\GitHub\\cs30-challenge-rockpaperscissors-CombativeCreeper007\\RockPaperScissorsChallenge\\RockPaperScissorsChallenge.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\OneDrive\\Documents\\GitHub\\cs30-challenge-rockpaperscissors-CombativeCreeper007\\Program.cs\\obj\\",
+      "outputPath": "C:\\Users\\danie\\OneDrive\\Documents\\GitHub\\cs30-challenge-rockpaperscissors-CombativeCreeper007\\RockPaperScissorsChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
