@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RockPaperScissorsChallenge/1.0.0": {
+        "dependencies": {
+          "RockPaperScissors": "1.0.0"
+        },
+        "runtime": {
+          "RockPaperScissorsChallenge.dll": {}
+        }
+      },
+      "RockPaperScissors/1.0.0": {
+        "runtime": {
+          "RockPaperScissors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RockPaperScissorsChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RockPaperScissors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

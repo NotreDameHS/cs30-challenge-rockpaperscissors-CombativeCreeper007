@@ -1,0 +1,12 @@
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.deps.json
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.dll
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/bin/Debug/net5.0/ref/RockPaperScissors.dll
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.pdb
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.csprojAssemblyReference.cache
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.AssemblyInfo.cs
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.dll
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/obj/Debug/net5.0/ref/RockPaperScissors.dll
+/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.pdb
