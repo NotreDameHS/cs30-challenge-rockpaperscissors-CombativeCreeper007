@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/joshuak19/.nuget/packages/": {}
+    "C:\\Users\\danie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissorsChallenge/RockPaperScissorsChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documents\\GitHub\\cs30-challenge-rockpaperscissors-CombativeCreeper007\\RockPaperScissorsChallenge\\RockPaperScissorsChallenge.csproj",
       "projectName": "RockPaperScissorsChallenge",
-      "projectPath": "/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissorsChallenge/RockPaperScissorsChallenge.csproj",
-      "packagesPath": "/Users/joshuak19/.nuget/packages/",
-      "outputPath": "/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissorsChallenge/obj/",
+      "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\GitHub\\cs30-challenge-rockpaperscissors-CombativeCreeper007\\RockPaperScissorsChallenge\\RockPaperScissorsChallenge.csproj",
+      "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danie\\OneDrive\\Documents\\GitHub\\cs30-challenge-rockpaperscissors-CombativeCreeper007\\RockPaperScissorsChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/joshuak19/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -51,8 +51,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/RockPaperScissors.csproj": {
-              "projectPath": "/Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/RockPaperScissors.csproj"
+            "C:\\Users\\danie\\OneDrive\\Documents\\GitHub\\cs30-challenge-rockpaperscissors-CombativeCreeper007\\RockPaperScissors\\RockPaperScissors.csproj": {
+              "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\GitHub\\cs30-challenge-rockpaperscissors-CombativeCreeper007\\RockPaperScissors\\RockPaperScissors.csproj"
             }
           }
         }
@@ -81,7 +81,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

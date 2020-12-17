@@ -10,3 +10,15 @@
 /Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.dll
 /Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/obj/Debug/net5.0/ref/RockPaperScissors.dll
 /Users/joshuak19/Documents/GitHub/cs30-challenge-rockpaperscissors-KamikoAoi/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.pdb
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.deps.json
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.dll
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\bin\Debug\net5.0\ref\RockPaperScissors.dll
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.pdb
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.dll
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\obj\Debug\net5.0\ref\RockPaperScissors.dll
+C:\Users\danie\OneDrive\Documents\GitHub\cs30-challenge-rockpaperscissors-CombativeCreeper007\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.pdb

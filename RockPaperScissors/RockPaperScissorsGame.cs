@@ -77,7 +77,7 @@ namespace RockPaperScissors
         {
             while(true)
             {
-                Console.Write("\nEnter your choice:\n\n[R] for Rock \n\n[P] for paper \n\n[S] for Scissors\n\n\n If you would like to Quit, please press [Q]\n");
+                Console.Write("\nEnter your choice:\n\n[R] for Rock \n\n[P] for paper \n\n[S] for Scissors\n\n\n If you would like to Quit, please press [Q]\n\n");
                 string choice = Console.ReadLine();
                 if(choice == "R" || choice == "P" || choice == "S" || choice == "Q") return choice;
                 else Console.WriteLine("\nThat was not a valid choice, please try again\n");
