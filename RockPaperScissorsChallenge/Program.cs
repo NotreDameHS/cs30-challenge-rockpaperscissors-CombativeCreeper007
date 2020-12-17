@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace RockPaperScissorsChallenge
+namespace RockPaperScissors
 {
-    class Program
+    class RockPaperScissorsGame
     {
         static void Main(string[] args)
         {
