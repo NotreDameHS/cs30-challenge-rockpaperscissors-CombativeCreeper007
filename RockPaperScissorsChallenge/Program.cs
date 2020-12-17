@@ -1,12 +1,26 @@
 ﻿using System;
 
-namespace RockPaperScissors
+
+namespace RockPaperScissorsChallenge
+
 {
-    class RockPaperScissorsGame
+
+  class Program
+
+  {
+
+    static void Main(string[] args)
+
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+
+      // Namespace.Class ObjectName = new Namespace.Class()
+
+      RockPaperScissors.RockPaperScissorsGame game = new RockPaperScissors.RockPaperScissorsGame();
+
+      game.Play();
+
     }
+
+  }
+
 }
