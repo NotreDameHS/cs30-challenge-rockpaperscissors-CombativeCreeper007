@@ -43,16 +43,19 @@ namespace RockPaperScissors
         {
             if(userChoice == ComputerChoice)
             {
+                Console.Clear();
                 ties++;
                 Console.WriteLine("\n[TIE] You picked {0}, but so did the computer!\n", ConvertChoiceToWord(userChoice));
             }
             else if((userChoice == "R" && ComputerChoice == "S") || (userChoice == "S" && ComputerChoice == "P") || (userChoice == "P" && ComputerChoice == "R"))
             {
+                Console.Clear();
                 wins++;
                 Console.WriteLine("\n[WIN] You chose {0} and the computer chose {1}, you beat the machine at its own game!\n", ConvertChoiceToWord(userChoice), ConvertChoiceToWord(ComputerChoice));
             }
             else
             {
+                Console.Clear();
                 losses++;
                 Console.WriteLine("\n[LOSE] You chose {0} but the computer chose {1}, you lose!\n", ConvertChoiceToWord(userChoice), ConvertChoiceToWord(ComputerChoice));
             }
@@ -77,10 +80,14 @@ namespace RockPaperScissors
         {
             while(true)
             {
+                Console.WriteLine("\n\n\n\n\n\n\n");
                 Console.Write("\nEnter your choice:\n\n[R] for Rock \n\n[P] for paper \n\n[S] for Scissors\n\n\n If you would like to Quit, please press [Q]\n\n");
                 string choice = Console.ReadLine();
                 if(choice == "R" || choice == "P" || choice == "S" || choice == "Q") return choice;
-                else Console.WriteLine("\nThat was not a valid choice, please try again\n");
+                else{
+                 Console.Clear();
+                 Console.WriteLine("\nThat was not a valid choice, please try again\n");
+                }
             }
         }
     }
